@@ -85,3 +85,11 @@ pip install -r requirements.txt
 
 - Download the brain tumor MRI dataset and place it in the appropriate directory for training and testing.
 - The dataset used consists of MRI scans of brain tumors categorized into different classes. The images were preprocessed to ensure consistent input size and format for the model. For more information on the dataset, please refer to the Kaggle Brain Tumor Dataset.
+
+
+## Deployment Video
+
+https://github.com/user-attachments/assets/660098d1-36ce-4132-a67a-9cd7056cbf63
+
+
+
